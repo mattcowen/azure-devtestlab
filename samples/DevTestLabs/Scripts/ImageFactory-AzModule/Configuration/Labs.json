@@ -1,0 +1,12 @@
+{
+  "Labs": [
+    {
+      "ResourceGroup": "devtest3",
+      "SubscriptionId": "d176c238-832c-4762-9e22-cdd81ae1f98b",
+      "LabName": "mcdevtest3",
+      "ImagePaths": [
+        "ubuntu19"
+      ]
+    }
+  ]
+}
